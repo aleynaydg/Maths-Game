@@ -1,7 +1,7 @@
                                                        Eğitici Matematik Oyunu
 
 Oyunun Amacı
-
+ 
  Bir kart oyunu tasarlanacak. Kart sistemiyle matematiksel işlem gücünü arttıran bu oyun okul öncesi çocuklara okulu sevdirir, herhangi boş vakitlerinde sıradan oyunlar yerine eğitici oyunlara vakit ayırmalarını sağlar. 
 
  Oyunun Mekaniği
