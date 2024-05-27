@@ -12,12 +12,15 @@ Oyunun Amacı
 https://github.com/aleynaydg/My-project-4-/assets/148552828/960ddbff-42e1-4337-87d4-5a13e768abf5
 
 Oyunun Ana Menüsü
+
 ![Ana Menü](https://github.com/aleynaydg/My-project-4-/assets/148552828/1eabb323-9646-43f8-84e6-18786d61960e)
 
 Toplama İşlemlerinin Yapıldığı Pencere
+
 ![Toplama Oyunu](https://github.com/aleynaydg/My-project-4-/assets/148552828/9f5b6af8-f97a-4a3c-89f7-f70925dc7581)
 
 Çıkarma İşlemlerinin Yapıldığı Pencere
+
 ![Çıkarma Oyunu](https://github.com/aleynaydg/My-project-4-/assets/148552828/0184a843-d2c2-4064-8d71-f20a062c9d23)
 
 
